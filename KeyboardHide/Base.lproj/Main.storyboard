@@ -37,8 +37,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="bottomConstraint" destination="kcg-TR-yXs" id="zSU-rU-1kI"/>
-                        <outlet property="textField" destination="Hdq-Y7-VED" id="oEx-Ce-A4o"/>
+                        <outlet property="bottomConstraint" destination="kcg-TR-yXs" id="LbU-f6-ibF"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

@@ -13,7 +13,7 @@
 		AA95AC96211E1B1F000265FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA95AC94211E1B1F000265FA /* LaunchScreen.storyboard */; };
 		AA95AC99211E1B1F000265FA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AA95AC98211E1B1F000265FA /* main.m */; };
 		AA95ACA1211E1B3F000265FA /* MyView.m in Sources */ = {isa = PBXBuildFile; fileRef = AA95ACA0211E1B3F000265FA /* MyView.m */; };
-		AA95ACA4211E2CBD000265FA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA95ACA3211E2CBD000265FA /* ViewController.m */; };
+		AA95ACA7211E2DAF000265FA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA95ACA5211E2DAF000265FA /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,8 +27,8 @@
 		AA95AC98211E1B1F000265FA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		AA95AC9F211E1B3F000265FA /* MyView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyView.h; sourceTree = "<group>"; };
 		AA95ACA0211E1B3F000265FA /* MyView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyView.m; sourceTree = "<group>"; };
-		AA95ACA2211E2CBD000265FA /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		AA95ACA3211E2CBD000265FA /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		AA95ACA5211E2DAF000265FA /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		AA95ACA6211E2DAF000265FA /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,8 +70,8 @@
 				AA95AC98211E1B1F000265FA /* main.m */,
 				AA95AC9F211E1B3F000265FA /* MyView.h */,
 				AA95ACA0211E1B3F000265FA /* MyView.m */,
-				AA95ACA2211E2CBD000265FA /* ViewController.h */,
-				AA95ACA3211E2CBD000265FA /* ViewController.m */,
+				AA95ACA6211E2DAF000265FA /* ViewController.h */,
+				AA95ACA5211E2DAF000265FA /* ViewController.m */,
 			);
 			path = KeyboardHide;
 			sourceTree = "<group>";
@@ -148,7 +148,7 @@
 			files = (
 				AA95ACA1211E1B3F000265FA /* MyView.m in Sources */,
 				AA95AC99211E1B1F000265FA /* main.m in Sources */,
-				AA95ACA4211E2CBD000265FA /* ViewController.m in Sources */,
+				AA95ACA7211E2DAF000265FA /* ViewController.m in Sources */,
 				AA95AC8B211E1B1E000265FA /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
